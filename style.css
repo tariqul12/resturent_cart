@@ -1,0 +1,13 @@
+.container {
+  width: 500px;
+  height: 600px;
+  border: 2px solid;
+  text-align: center;
+  margin: auto;
+}
+.container p {
+  width: 95%;
+}
+img {
+  border-radius: 10px;
+}
